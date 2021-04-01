@@ -1,0 +1,6 @@
+[submodule "ctf-api"]
+	path = ctf-api
+	url = https://github.com/harmonherring/ctf-api
+[submodule "ctf-ui"]
+	path = ctf-ui
+	url = https://github.com/harmonherring/ctf-ui
